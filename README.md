@@ -1,7 +1,7 @@
 # mask-detection-COVID-19
 
 ### Prerequisites:
-1.) Python environment is required for the code to run (eg. Anaconda3).
+1.) Python environment is required for the code to run (eg. pycharm).
 
 2.) Install following libraries using command prompt – opencv, numpy, opencv-contrib-python (these libraries are not found in python module thus need to be installed externally).
 
